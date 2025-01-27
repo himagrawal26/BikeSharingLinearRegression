@@ -9,10 +9,10 @@ Dataset has 2 years data - 2018 & 2019 in which weather situations, temp, season
 #### Steps followed:
 - Data Understanding
 - Data visualisation & EDA
-- Linear model preparation (Train test split, Feature scaling, Prediction, R2, Adjusted R2, VIF, RMSE)
+- Linear model preparation (Train test split, Feature scaling, RFE, Prediction, R2, Adjusted R2, VIF, RMSE)
 - Prediction and Checking Accuracy for train and test set
 - Comparing models in order to find the best model
-- Residual Analysis (Linear Regression Assumption)
+- Residual Analysis (Validation of Assumption of errors in Linear Regression)
 - Making Linear Regression Equation
 - Conclusion and Suggestions
   
